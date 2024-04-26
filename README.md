@@ -10,10 +10,8 @@
 
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
- <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devfelipeeduardo" />
-
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white](https://github.com/devfelipeeduardo" />
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white](https://github.com/devfelipeeduardo" />
+ <img align="center" alt="GitHub" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white](https://github.com/devfelipeeduardo" />
+ <img align="center" alt="GitHub" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white](https://github.com/devfelipeeduardo" />
 
 
 </div>
