@@ -19,6 +19,8 @@
 <br/>
 
 #### 😎 Sempre fui apaixonado por tecnologia e conhecimento, e aos 22 anos finalmente iniciei meu aprendizado na área. 😎
+
+Totalmente apaixonado por Excel, automações e pela área de tecnologia de informação!
 <br/>
 
 #### 💻 Atualmente estudando ADS na Estácio por EAD. 💻
