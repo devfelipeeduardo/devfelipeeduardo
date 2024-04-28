@@ -3,7 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefreitasof/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freitas.zoz/)
 
-![Felipe Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=devfelipeeduardo&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/devfelipeeduardo">
+    <img width="430" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEduardo&layout=compact&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be" />
+  </a>
+</div>
 
 ### Tecnologias Mais Usadas Atualmente:
 <div style="display: inline-block"> <br/>
