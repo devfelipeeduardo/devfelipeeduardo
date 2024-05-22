@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Felipe 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefreitasof/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freitas.zoz/)
-
 <div align="center">
   <a href="https://github.com/devfelipeeduardo">
     <img width="430" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipeeduardo&layout=compact&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be" />
@@ -16,7 +13,7 @@
  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img align="center" alt="GitHub" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white](https://github.com/devfelipeeduardo" />
  <img align="center" alt="GitHub" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white](https://github.com/devfelipeeduardo" />
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefreitasof/)
 
 </div>
 
