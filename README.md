@@ -13,10 +13,10 @@
  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img align="center" alt="GitHub" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white](https://github.com/devfelipeeduardo" />
  <img align="center" alt="GitHub" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white](https://github.com/devfelipeeduardo" />
- 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefreitasof/)
+
 
 </div>
+
 
 <br/>
 
@@ -28,6 +28,9 @@ Totalmente apaixonado por Excel, automações e pela área de tecnologia de info
 #### 💻 Atualmente estudando ADS na Estácio por EAD. 💻
 
 <h3 align="left">Connect with me:</h3>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefreitasof/)
+
 <p align="left">
 </p>
 
