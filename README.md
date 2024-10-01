@@ -17,6 +17,9 @@
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=devfelipeeduardo)
+<br>
+</div>
 
 <br/>
 
@@ -33,9 +36,6 @@ Totalmente apaixonado por Excel, automações e pela área de tecnologia de info
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-![](https://komarev.com/ghpvc/?username=devfelipeeduardo)
-<br>
-</div>
 
 <p align="left">
 </p>
