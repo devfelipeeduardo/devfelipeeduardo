@@ -14,11 +14,12 @@
  <img align="center" alt="GitHub" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white](https://github.com/devfelipeeduardo" />
  <img align="center" alt="GitHub" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-
-</div>
-
-![](https://komarev.com/ghpvc/?username=devfelipeeduardo)
 <br>
+
+<div>
+  
+![](https://komarev.com/ghpvc/?username=devfelipeeduardo)
+  
 </div>
 
 <br/>
@@ -33,9 +34,6 @@ Totalmente apaixonado por Excel, automações e pela área de tecnologia de info
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefreitasof/)
-
-<p align="centre"><b>Visitors Count</b></p> 
-  
 
 <p align="left">
 </p>
