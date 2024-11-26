@@ -29,8 +29,6 @@
 Totalmente apaixonado por Excel, automações e pela área de tecnologia de informação!
 <br/>
 
-#### 💻 Atualmente estudando ADS na Estácio por EAD. 💻
-
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefreitasof/)
